@@ -1,2 +1,2 @@
 # hello-world
-LearnGit
+I'm start to learn Git from now. ^_^
